@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@theme {
+  --font-*:initial;
+  --font-first: "Sora", sans-serif;
+  --font-second: "Source Code Pro", monospace;
+  --font-third: "Space Grotesk", sans-serif;
+  
+  }
